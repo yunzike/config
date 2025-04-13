@@ -217,21 +217,3 @@ config subscription
 	option user_agent 'clash.meta'
 	option prefer 'remote'
 
-config subscription
-	option name '快猫'
-	option url '1'
-	option user_agent 'clash.meta'
-	option prefer 'remote'
-
-config subscription
-	option name '红杏'
-	option user_agent 'clash.meta'
-	option prefer 'remote'
-	option url '1'
-
-config subscription
-	option name '牛逼'
-	option url '1'
-	option user_agent 'clash.meta'
-	option prefer 'remote'
-
